@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EBF5F0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.huz-section {
+    padding: 120px;
+    display: flex;
+}
+
+.heading-1 {
+    color: #322D41;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.container-2 {}
+
+.col-2 img {
+    margin-left: 300px;
+    margin-top: 15px;
+}
+
+.col-3 {
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.col-3 h3 {
+    color: #322D41;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.form {
+    width: 60%;
+    /* padding: 10px 20px 10px 20px; */
+    border-radius: 30px;
+    border: none;
+    font-weight: 500;
+    font-size: 15px;
+    padding-top: 9px;
+    /* text-align: center;
+    margin-left: -220px; */
+}
+
+.form input {
+    padding: 24px;
+    border-radius: 27px;
+    width: 252px;
+    border: none;
+    height: 0px;
+}
+
+.col-3 button {
+    background-color: #322D41;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+
+.col-3 button a {
+    color: white;
+    text-decoration: none;
+}
+
+.storeimage-2 {
+    margin-top: 14px;
+}
+
+.storeimage-2 img {
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+
+/* han bhai sec 2 ki css shuru hai */
+
+h1 {
+    color: #322D41;
+    font-size: 35px;
+    font-weight: bolder;
+    position: relative;
+    left: 420px;
+    top: 155px;
+}
+
+hr {
+    position: relative;
+    top: 100px;
+}
+
+.ig1 {
+    position: relative;
+    top: 240px;
+    left: 198px;
+}
+
+.ig2 {
+    position: relative;
+    top: 100px;
+    left: 590px;
+}
+
+.ig3 {
+    position: relative;
+    bottom: 45px;
+    left: 965px;
+}
+
+.ht {
+    font-weight: 1000;
+    font-size: large;
+    display: flex;
+    gap: 237px;
+    position: relative;
+    left: 198px;
+    bottom: 41px;
+}
+
+.ht2 {
+    font-weight: 700;
+    font-size: medium;
+    display: flex;
+    gap: 182px;
+    position: relative;
+    left: 185px;
+    bottom: 70px;
+}
